@@ -1,0 +1,599 @@
+<mxfile host="app.diagrams.net" modified="2023-12-30T16:04:44.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pGuNJ9boQQOzKDPtm9Ae" version="22.1.16" type="device">
+  <diagram name="Page-1" id="oZeKqHWYvJ7dk_lJB4sB">
+    <mxGraphModel dx="1687" dy="2098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-1" target="Y3PwKI4f5_fhCVIXsXPS-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-1" value="headphones" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-2" target="Y3PwKI4f5_fhCVIXsXPS-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-2" value="speakers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-3" target="Y3PwKI4f5_fhCVIXsXPS-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-3" target="Y3PwKI4f5_fhCVIXsXPS-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-3" target="yAPXyJVoUmnPn_0B3YJV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-3" value="audio" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-4" target="Y3PwKI4f5_fhCVIXsXPS-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-4" value="wireless" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="162.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-5" target="Y3PwKI4f5_fhCVIXsXPS-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-5" value="wired" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="409.99999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-6" value="are they on the list of bluetooth devices?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="332.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-8" target="Y3PwKI4f5_fhCVIXsXPS-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-8" value="no" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-13" target="Y3PwKI4f5_fhCVIXsXPS-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-13" value="try plugging receiver into different port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="567.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-14" value="issue with bluetooth receiver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-15" target="Y3PwKI4f5_fhCVIXsXPS-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-15" value="check if plugged in to correct port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-16" target="Y3PwKI4f5_fhCVIXsXPS-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-16" value="if you have multiple ports try a different one" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="655.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-17" target="Y3PwKI4f5_fhCVIXsXPS-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-17" value="try volume wheel" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-18" target="Y3PwKI4f5_fhCVIXsXPS-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-18" value="try volume levels" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-19" value="try changing output device" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-20" target="Y3PwKI4f5_fhCVIXsXPS-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-20" target="Y3PwKI4f5_fhCVIXsXPS-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-20" value="are headphones plugged in too?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-21" value="yes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-22" target="Y3PwKI4f5_fhCVIXsXPS-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-22" value="no" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-23" target="Y3PwKI4f5_fhCVIXsXPS-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-23" value="if speakers and headphones are both plugged in speakers might not work" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-36" target="Y3PwKI4f5_fhCVIXsXPS-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-36" target="Y3PwKI4f5_fhCVIXsXPS-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-36" value="keyboard and mouse" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1610" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-55" target="Y3PwKI4f5_fhCVIXsXPS-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-55" value="update bluetooth driver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-57" target="Y3PwKI4f5_fhCVIXsXPS-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-57" value="is bluetooth on?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="242.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-63" target="yAPXyJVoUmnPn_0B3YJV-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-63" value="mouse / keyboard" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1770" y="30.000000000000004" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-77" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="569.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-77" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="569.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-77" value="unplug and plug back in, is there a popup for correct device type?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-78" target="Y3PwKI4f5_fhCVIXsXPS-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-78" value="yes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-79" target="Y3PwKI4f5_fhCVIXsXPS-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-79" value="no" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-92" target="Y3PwKI4f5_fhCVIXsXPS-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-92" value="yes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-97" target="Y3PwKI4f5_fhCVIXsXPS-98" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-97" value="check if the device is turned off or needs batteries" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-98" target="Y3PwKI4f5_fhCVIXsXPS-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-98" value="unpair and pair again" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="567.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-100" value="try restarting your pc" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-126" target="Y3PwKI4f5_fhCVIXsXPS-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-126" value="touchpad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="30.000000000000004" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-127" target="Y3PwKI4f5_fhCVIXsXPS-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-127" value="update drivers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-128" value="reinstall drivers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1370" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-130" target="Y3PwKI4f5_fhCVIXsXPS-145" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-130" value="wireless" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1610" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-135" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1800" y="357.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-135" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1550" y="300" />
+            </Array>
+            <mxPoint x="1550" y="357.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-135" value="are they on the list of bluetooth devices?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1610" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-145" target="Y3PwKI4f5_fhCVIXsXPS-135" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-145" value="is bluetooth on?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1610" y="188" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-150" target="Y3PwKI4f5_fhCVIXsXPS-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-150" value="yes" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1730" y="357.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-152" target="Y3PwKI4f5_fhCVIXsXPS-154" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-152" value="check if the device is turned off or needs batteries" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1730" y="437.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-154" target="yAPXyJVoUmnPn_0B3YJV-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-154" value="unpair and pair again" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1730" y="515.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="345.5" as="sourcePoint" />
+            <mxPoint x="1550" y="365.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-156" target="Y3PwKI4f5_fhCVIXsXPS-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-156" value="no" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="355.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="503.25" as="sourcePoint" />
+            <mxPoint x="1550" y="525.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-158" target="Y3PwKI4f5_fhCVIXsXPS-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-158" value="try plugging receiver into different port" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="513.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-159" value="issue with bluetooth receiver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="595.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="425.5" as="sourcePoint" />
+            <mxPoint x="1550" y="443.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-161" target="Y3PwKI4f5_fhCVIXsXPS-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-161" value="update bluetooth driver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="435.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3PwKI4f5_fhCVIXsXPS-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Y3PwKI4f5_fhCVIXsXPS-63" target="Y3PwKI4f5_fhCVIXsXPS-130" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-1" target="yAPXyJVoUmnPn_0B3YJV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-1" value="microphone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="276.13" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-8" target="yAPXyJVoUmnPn_0B3YJV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-8" value="check if plugged in to correct port" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="366.13" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-10" target="yAPXyJVoUmnPn_0B3YJV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-10" value="if you have multiple ports try a different one" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="611.63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="526.1299999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-12" target="yAPXyJVoUmnPn_0B3YJV-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="463.88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-12" value="unplug and plug back in, is there a popup for correct device type?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="446.13" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-14" target="yAPXyJVoUmnPn_0B3YJV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-14" value="no" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="526.13" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-15" value="try restarting your pc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="696.13" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-19" target="yAPXyJVoUmnPn_0B3YJV-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-19" value="yes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="531.63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-21" target="yAPXyJVoUmnPn_0B3YJV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-21" value="check if mic is allowed in privacy settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="611.63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-23" target="yAPXyJVoUmnPn_0B3YJV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-23" value="check if mute switch is active" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="696.13" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-24" target="yAPXyJVoUmnPn_0B3YJV-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-24" value="check if it&#39;s the selected input device" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="783.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-25" value="check that device volume isn&#39;t 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="863.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-33" target="yAPXyJVoUmnPn_0B3YJV-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-33" value="check if plugged in to correct port" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="162.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-35" target="yAPXyJVoUmnPn_0B3YJV-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-35" value="try a different usb port" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="437.62" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-43" target="yAPXyJVoUmnPn_0B3YJV-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-43" target="yAPXyJVoUmnPn_0B3YJV-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-43" value="unplug and plug back in, is there a popup for correct device type?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="242.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-45" target="yAPXyJVoUmnPn_0B3YJV-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-45" value="keyboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="432.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-47" target="yAPXyJVoUmnPn_0B3YJV-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-47" value="no" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="352.12" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-48" value="try restarting your pc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="522.12" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-49" target="yAPXyJVoUmnPn_0B3YJV-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-49" value="wired" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1918" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-52" target="yAPXyJVoUmnPn_0B3YJV-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-52" value="mouse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="432.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-56" target="yAPXyJVoUmnPn_0B3YJV-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-56" target="yAPXyJVoUmnPn_0B3YJV-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-56" value="yes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="324.37" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-61" target="yAPXyJVoUmnPn_0B3YJV-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-61" value="check if mouse sensor is obstructed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="522.12" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-63" target="yAPXyJVoUmnPn_0B3YJV-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-63" value="go to keyboardtester.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="522.12" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-66" target="yAPXyJVoUmnPn_0B3YJV-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-66" value="update drivers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="616.62" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-67" value="reinstall drivers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="706.62" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-73" target="yAPXyJVoUmnPn_0B3YJV-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-73" target="yAPXyJVoUmnPn_0B3YJV-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-73" value="internet connection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="-461.63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-74" target="yAPXyJVoUmnPn_0B3YJV-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-74" value="ethernet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="-381.63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-75" target="yAPXyJVoUmnPn_0B3YJV-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-75" value="wi-fi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="-381.63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-76" target="yAPXyJVoUmnPn_0B3YJV-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-76" target="yAPXyJVoUmnPn_0B3YJV-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-76" target="yAPXyJVoUmnPn_0B3YJV-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-76" value="go to change adapter options" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="-291.63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-77" target="yAPXyJVoUmnPn_0B3YJV-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-77" value="it says connected" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="-199.38" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-78" target="yAPXyJVoUmnPn_0B3YJV-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-78" value="it says not connected" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="-199.38" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-79" target="yAPXyJVoUmnPn_0B3YJV-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-79" value="it says network cable unplugged" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-199.38" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-80" target="yAPXyJVoUmnPn_0B3YJV-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-80" value="bottom right -&amp;gt; click to turn wi-fi on" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="57.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-81" target="yAPXyJVoUmnPn_0B3YJV-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2440" y="-79.63" />
+              <mxPoint x="2440" y="-276.63" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-81" value="try connecting to a different network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2500" y="-109.38" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-82" target="yAPXyJVoUmnPn_0B3YJV-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-82" value="physical wi-fi switch is turned on" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="-113.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-83" target="yAPXyJVoUmnPn_0B3YJV-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-83" value="make sure airplane mode is off" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="-26.129999999999995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-84" target="yAPXyJVoUmnPn_0B3YJV-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-84" target="yAPXyJVoUmnPn_0B3YJV-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-84" value="is wi-fi on?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="-301.63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-85" target="yAPXyJVoUmnPn_0B3YJV-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-85" value="yes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2500" y="-199.38" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-86" value="no" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="-203.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-87" value="unplug the ethernet cable and plug it back in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="-111.63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-89" target="yAPXyJVoUmnPn_0B3YJV-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-89" value="disable it and enable again, make sure you type correct password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="-111.63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-90" value="disconnect and connect again after a moment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2290" y="-111.63" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="yAPXyJVoUmnPn_0B3YJV-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2800" y="-143.8800000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-117" target="Y3PwKI4f5_fhCVIXsXPS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-117" target="Y3PwKI4f5_fhCVIXsXPS-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yAPXyJVoUmnPn_0B3YJV-117" target="yAPXyJVoUmnPn_0B3YJV-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="-520" />
+              <mxPoint x="2430" y="-520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-117" value="what is the domain?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="-383.26" width="280" height="141.63" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-125" value="if using wi-fi adapter, replug it or try another port" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAPXyJVoUmnPn_0B3YJV-127" value="try resetting your router" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="-26.129999999999995" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
