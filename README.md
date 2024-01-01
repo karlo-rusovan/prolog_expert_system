@@ -9,3 +9,6 @@ declaring a solution with solution name and set of conditions that have to be me
 the system will recommend the defined solution. The only other thing that needs to be done is make a 
 troubleshoot_solution(solution_name) predicate where you define what's the output of the solution and where 
 you call the search for next solution. 
+
+The current flowchart for troubleshooting is provided with the code in form of .drawio file which you can open
+using platform diagrams.net
