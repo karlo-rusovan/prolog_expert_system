@@ -12,3 +12,8 @@ you call the search for next solution.
 
 The current flowchart for troubleshooting is provided with the code in form of .drawio file which you can open
 using platform diagrams.net
+
+how to run: <br>
+the system uses subprocess and tkinter Python libraries that should be installed with Python<br>
+download swi-prolog from the following link: https://www.swi-prolog.org/download/stable and add swipl to path<br>
+run with: python main.py<br>
